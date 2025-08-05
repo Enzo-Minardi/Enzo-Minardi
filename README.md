@@ -1,4 +1,4 @@
-# 👋 Olá, eu sou o Nelson!
+# 👋 Olá, eu sou o Enzo Minardi!
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** na [FECAP](https://www.fecap.br)  
 
