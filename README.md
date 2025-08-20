@@ -15,8 +15,6 @@ Em busca de oportunidades para aplicar meus conhecimentos e crescer na área de 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40"/>
 <!-- CSS -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
-<!-- Java -->
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40"/>
 <!-- JavaScript -->
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40"/>
 <!-- React -->
@@ -29,16 +27,16 @@ Em busca de oportunidades para aplicar meus conhecimentos e crescer na área de 
 
 ## 📈 GitHub Stats
 
-![Nelson's GitHub stats](https://github-readme-stats.vercel.app/api?username=ReisNelson&show_icons=true&theme=dracula&count_private=true)
+![Enzo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Enzo-Minardi&show_icons=true&theme=dracula&count_private=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ReisNelson&layout=compact&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Enzo-Minardi&layout=compact&theme=dracula)
 
 ---
 
 ## 🌐 Minhas redes:
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-linkedin)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nelsondosreisgomessouza@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-minardi/)
+[![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:enzonzmdyagmail.com)
 
 ---
 
